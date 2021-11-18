@@ -1,0 +1,14 @@
+ul
+{
+ display: flex;
+ flex-direction:row;
+ list-style: none;
+}
+li{
+  border: 2px solid blue;
+  padding: 10px;
+}
+.active{
+background-color: cornflowerblue;
+font-weight: 900;
+}
